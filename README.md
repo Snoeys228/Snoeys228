@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Snoeys228
 - 👀 I’m interested in coding in general
-- 🌱 I’m currently learning IT 
+- 🌱 I’m currently studying IT 
 - 📫 How to reach me email me rosalinesnoeys@gmail.com
 
 <!---
